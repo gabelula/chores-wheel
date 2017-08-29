@@ -1,0 +1,38 @@
+{
+    "diningroom": {
+        "person": {
+            "email": "gabelula@gmail.com", 
+            "name": "Gabriela"
+        }
+    }, 
+    "fridge": {
+        "person": {
+            "email": "danielle.heck@gmail.com", 
+            "name": "Danielle"
+        }
+    }, 
+    "kitchen": {
+        "person": {
+            "email": "gabelula@gmail.com", 
+            "name": "Gabriela"
+        }
+    }, 
+    "livingroom": {
+        "person": {
+            "email": "annajsobocinski@gmail.com", 
+            "name": "Anna"
+        }
+    }, 
+    "playroom": {
+        "person": {
+            "email": "amfgschneider@gmx.de", 
+            "name": "Andreas"
+        }
+    }, 
+    "trash": {
+        "person": {
+            "email": "christopher.gian@gmail.com", 
+            "name": "Chris"
+        }
+    }
+}
